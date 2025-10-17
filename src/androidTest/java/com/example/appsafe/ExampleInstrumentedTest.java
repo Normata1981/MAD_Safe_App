@@ -1,4 +1,4 @@
-package com.example.appsafe;uehhwlkerhliwhrsdlkafkwekhwkhweklw
+package com.example.appsafe;
 
 import android.content.Context;
 
